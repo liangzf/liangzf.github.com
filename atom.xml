@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="https://liangzf.github.io/"/>
-  <updated>2015-10-31T12:14:18.269Z</updated>
+  <updated>2015-10-31T12:09:02.670Z</updated>
   <id>https://liangzf.github.io/</id>
   
   <author>
@@ -13,19 +13,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[index]]></title>
-    <link href="https://liangzf.github.io/2015/10/31/index/"/>
-    <id>https://liangzf.github.io/2015/10/31/index/</id>
-    <published>2015-10-31T12:14:18.000Z</published>
-    <updated>2015-10-31T12:14:18.269Z</updated>
-    <content type="html"></content>
-    <summary type="html">
-    
-    </summary>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
