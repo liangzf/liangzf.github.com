@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://liangzf.github.io/categories/index.html</loc>
+    <lastmod>2015-11-01T11:00:34.945Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liangzf.github.io/tags/index.html</loc>
+    <lastmod>2015-11-01T10:58:17.713Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liangzf.github.io/2015/11/01/hello-world/</loc>
+    <lastmod>2015-11-01T09:16:05.840Z</lastmod>
+  </url>
+  
+  <url>
     <loc>https://liangzf.github.io/wiki/index.html</loc>
     <lastmod>2015-11-01T02:49:32.297Z</lastmod>
   </url>
@@ -9,11 +24,6 @@
   <url>
     <loc>https://liangzf.github.io/about/index.html</loc>
     <lastmod>2015-10-31T15:56:41.584Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://liangzf.github.io/2015/10/31/hello-world/</loc>
-    <lastmod>2015-10-31T12:09:02.670Z</lastmod>
   </url>
   
 </urlset>
